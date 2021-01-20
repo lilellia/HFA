@@ -16,9 +16,10 @@ h1 {
 
 summary {
     border: 1px dotted #ddd;
-    padding-top: 50px;
-    margin: 5px;
+    margin-top: 50px;
+    padding: 10px;
     background-color: #563d66;
+    color: #333;
     opacity: 0.3;
 }
 
@@ -26,12 +27,12 @@ summary {
     font-size: 200%;
     font-family: Tangerine, serif;
     font-style: italic;
-    text-align: left;
+    text-align: center;
 }
 
 /* force Japanese text not to be italic */
 span.japanese {
-    font-family: "Noto Sans JP", serif;
+    font-family: "Noto Serif JP", serif;
     font-style: normal;
 }
 
