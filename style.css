@@ -16,6 +16,10 @@ h1 {
 
 summary {
     border: 1px dotted #ddd;
+    padding-top: 50px;
+    margin: 5px;
+    background-color: #563d66;
+    opacity: 0.3;
 }
 
 .poemtitle {
@@ -27,7 +31,8 @@ summary {
 
 /* force Japanese text not to be italic */
 span.japanese {
-    font-style: italic;
+    font-family: "Noto Sans JP", serif;
+    font-style: normal;
 }
 
 span.underline {
@@ -37,6 +42,6 @@ span.underline {
 .poem {
     font-family: Montserrat, sans-serif;
     font-style: italic;
-    padding-left: 15%;
+    padding-left: 5%;
 }
 
