@@ -21,9 +21,9 @@ summary {
     background-color: #563d66;
     color: #eee;
     opacity: 0.3;
-    
+
     /* 1 pixel black shadow to left, top, right and bottom */
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
 }
 
 .poemtitle {
