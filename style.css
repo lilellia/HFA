@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 42px;
+    font-size: 175%;
 }
 
 .title {
@@ -15,13 +15,10 @@ h1 {
 }
 
 .poemtitle {
+    font-size: 125%;
     font-family: Tangerine, serif;
     font-style: italic;
-    background-color: #563d66;
-    opacity: 0.3678794412;
     text-align: left;
-    border: 1px dashed #ddd;
-    padding-left: 5%;
 }
 
 /* force Japanese text not to be italic */
