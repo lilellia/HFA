@@ -14,6 +14,10 @@ h1 {
     text-align: center;
 }
 
+summary {
+    border: 1px dotted #ddd;
+}
+
 .poemtitle {
     font-size: 200%;
     font-family: Tangerine, serif;
