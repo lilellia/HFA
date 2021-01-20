@@ -1,0 +1,40 @@
+body {
+    background-color: #333;
+    color: #ddd;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+.title {
+    font-family: Tangerine, serif;
+    font-style: italic;
+    padding: 18px;
+    text-align: center;
+}
+
+.title.poemtitle {
+    background-color: #563d66;
+    opacity: 0.3678794412;
+    text-align: left;
+    border: 1px dashed #ddd;
+    padding-left: 5%;
+}
+
+/* force Japanese text not to be italic */
+span.japanese {
+    font-style: italic;
+}
+
+span.underline {
+    text-decoration: underline;
+}
+
+.poem {
+    font-family: Montserrat, sans-serif;
+    font-style: italic;
+    display: inline-block;
+    padding-left: 15%;
+}
+
