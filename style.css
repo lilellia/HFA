@@ -14,7 +14,9 @@ h1 {
     text-align: center;
 }
 
-.title.poemtitle {
+.poemtitle {
+    font-family: Tangerine, serif;
+    font-style: italic;
     background-color: #563d66;
     opacity: 0.3678794412;
     text-align: left;
