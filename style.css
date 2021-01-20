@@ -31,6 +31,7 @@ summary {
     font-family: Tangerine, serif;
     font-style: italic;
     text-align: center;
+    font-weight: bolder;
 }
 
 /* force Japanese text not to be italic */
