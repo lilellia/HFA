@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    font-size: 175%;
+    font-size: 300%;
 }
 
 .title {
@@ -15,7 +15,7 @@ h1 {
 }
 
 .poemtitle {
-    font-size: 125%;
+    font-size: 200%;
     font-family: Tangerine, serif;
     font-style: italic;
     text-align: left;
@@ -33,7 +33,6 @@ span.underline {
 .poem {
     font-family: Montserrat, sans-serif;
     font-style: italic;
-    display: inline-block;
     padding-left: 15%;
 }
 
