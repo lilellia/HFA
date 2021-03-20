@@ -8,7 +8,7 @@ h1 {
 }
 
 .title {
-    font-family: Tangerine, serif;
+    font-family: 'Kaushan Script', cursive;
     font-style: italic;
     padding: 18px;
     text-align: center;
@@ -18,17 +18,17 @@ summary {
     border: 1px dotted #ddd;
     margin-top: 50px;
     padding: 10px;
-    background-color: #563d66;
-    color: #eee;
-    opacity: 0.3;
+    background-color: #c692e9a6;
+    color: #fff;
+    opacity: 0.7;
 
     /* 1 pixel black shadow to left, top, right and bottom */
-    /* text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black; */
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 .poemtitle {
-    font-size: 200%;
-    font-family: Tangerine, serif;
+    font-size: 160%;
+    font-family: 'Kaushan Script', cursive;
     font-style: italic;
     text-align: center;
     font-weight: bolder;
@@ -36,7 +36,7 @@ summary {
 
 /* force Japanese text not to be italic */
 span.japanese {
-    font-family: "Noto Serif JP", serif;
+    font-family: 'Kosugi Maru', sans-serif;
     font-style: normal;
 }
 
@@ -45,8 +45,9 @@ span.underline {
 }
 
 .poem {
-    font-family: Montserrat, sans-serif;
-    font-style: italic;
+    font-family: Kalam, cursive;
+    font-weight: 400;
     padding-left: 5%;
+    font-size: 13pt;
 }
 
